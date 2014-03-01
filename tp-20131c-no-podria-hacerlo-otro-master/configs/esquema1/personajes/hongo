@@ -1,0 +1,13 @@
+nombre=Hongo
+simbolo=#
+planDeNiveles=[Nivel8-8,Nivel3-1,Nivel2-1]
+cantidadDeNiveles=3
+obj[Nivel8-8]=[H,E,C]
+cantidadDeRecursos[Nivel8-8]=3
+obj[Nivel3-1]=[B,T,B,T,R,T]
+cantidadDeRecursos[Nivel3-1]=6
+obj[Nivel2-1]=[C,F,C]
+cantidadDeRecursos[Nivel2-1]=3
+vidas=5
+local=
+orquestador=:5000

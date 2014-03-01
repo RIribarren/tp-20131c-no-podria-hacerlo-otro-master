@@ -1,0 +1,11 @@
+nombre=Luigi
+simbolo=*
+planDeNiveles=[Nivel2-1,Nivel8-8]
+cantidadDeNiveles=2
+obj[Nivel2-1]=[F,C,F,C,F,C,F,C,F]
+cantidadDeRecursos[Nivel2-1]=9
+obj[Nivel8-8]=[H,E,C]
+cantidadDeRecursos[Nivel8-8]=3
+vidas=5
+local=
+orquestador=:5000

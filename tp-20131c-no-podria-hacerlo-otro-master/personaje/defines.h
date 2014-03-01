@@ -1,0 +1,37 @@
+/*
+ * defines.h
+ *
+ *  Created on: 15/05/2013
+ *      Author: utnso
+ */
+
+#ifndef DEFINES_H_
+#define DEFINES_H_
+
+#define YES 1
+#define NO 0
+
+//IDs PARA EL PASAJE DE ESTRUCTURAS Y MENSAJES
+#define HANDSHAKE 0
+#define IPyPUERTO 1
+#define ME_QUIERO_MOVER 3
+#define DESTINO 3
+#define PEDIR_INFO_NIVEL_PLAN 4
+#define PEDIR_INSTANCIA 5
+#define MOVIMIENTO_PERMITIDO 6
+#define TURNO_CONCLUIDO 7
+#define DATOS_DEL_NIVEL 9
+#define DAR_RECURSO 10
+#define DESCONEXION 11
+#define JUEGO_TERMINADO 12
+#define NUEVA_POSICION 13
+#define RESPUESTA_ORQUESTADOR 14
+#define CONFIRMACION_DESCONEXION 21
+#define SIGNAL_RECIBIDA 22
+
+#define SIMBOLO 50
+
+
+
+
+#endif /* DEFINES_H_ */

@@ -1,0 +1,9 @@
+nombre=Luigi
+simbolo=*
+planDeNiveles=[Deadlock]
+cantidadDeNiveles=1
+obj[Deadlock]=[M,Z]
+cantidadDeRecursos[Deadlock]=2
+vidas=5
+local=
+orquestador=:5000

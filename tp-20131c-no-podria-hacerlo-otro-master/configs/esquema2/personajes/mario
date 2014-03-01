@@ -1,0 +1,9 @@
+nombre=Mario
+simbolo=@
+planDeNiveles=[Deadlock]
+cantidadDeNiveles=1
+obj[Deadlock]=[H,M]
+cantidadDeRecursos[Deadlock]=2
+vidas=5
+local=
+orquestador=:5000

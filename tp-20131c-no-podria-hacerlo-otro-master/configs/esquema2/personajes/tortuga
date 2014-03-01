@@ -1,0 +1,9 @@
+nombre=Tortuga
+simbolo=&
+planDeNiveles=[Deadlock]
+cantidadDeNiveles=1
+obj[Deadlock]=[B,H]
+cantidadDeRecursos[Deadlock]=2
+vidas=5
+local=
+orquestador=127.0.0.1:5000

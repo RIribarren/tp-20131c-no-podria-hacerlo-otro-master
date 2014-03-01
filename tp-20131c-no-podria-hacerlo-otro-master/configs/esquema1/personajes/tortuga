@@ -1,0 +1,13 @@
+nombre=Tortuga
+simbolo=&
+planDeNiveles=[Nivel8-8,Nivel3-1,Nivel2-1]
+cantidadDeNiveles=3
+obj[Nivel8-8]=[C,H,E]
+cantidadDeRecursos[Nivel8-8]=3
+obj[Nivel3-1]=[B,T,B,R,T]
+cantidadDeRecursos[Nivel3-1]=5
+obj[Nivel2-1]=[C,F,C,F,C,F,C,F,C,F]
+cantidadDeRecursos[Nivel2-1]=10
+vidas=5
+local=
+orquestador=:5000

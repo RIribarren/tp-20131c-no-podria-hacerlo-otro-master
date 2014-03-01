@@ -1,0 +1,9 @@
+nombre=Nivel2-1
+cantidadDeCajas=2
+local=:6002
+# CajaX=[Nombre],[Simbolo],[Instancias],[PosX],[PosY]
+Caja1=Chocolates,C,8,43,19
+Caja2=Flores,F,5,19,15
+orquestador=:5000
+TiempoChequeoDeadlock=20
+Recovery=1

@@ -1,0 +1,12 @@
+nombre=Goomba
+simbolo=$
+planDeNiveles=[Nivel1-1,Nivel3-1,Nivel8-8]
+cantidadDeNiveles=3
+obj[Nivel1-1]=[H,V,F,H,V,H]
+cantidadDeRecursos[Nivel1-1]=6
+obj[Nivel3-1]=[B,R,B]
+cantidadDeRecursos[Nivel3-1]=3
+obj[Nivel8-8]=[E,C,H]
+cantidadDeRecursos[Nivel8-8]=3
+vidas=3
+orquestador=:5000
